@@ -10,7 +10,7 @@ There is little incentive to be a shorter with a non-staking collateral, if that
 
 ## What are the user incentives?
 
-- **Buyers** want a stable asset (zETH -> cUSD).
+- **Bidders** want a stable asset (zETH -> cUSD).
 - **Shorters** want extra yield for their ETH, which comes from the buyer side as well as any unmatched zETH.
 - **Askers** want to swap the stable asset back for collateral (cUSD -> zETH).
 - **Primary Margin Callers** get a reward for liquidating.
